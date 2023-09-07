@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there, i'm Pav 👋
+
+I'm a programmer with a passion for artificial intelligence and its use to fix real world issues. 
+Also a huge Wolverhampton Wanderers fan! 🐺
+
+## About Me
+- 🏫 Education: Bsc Computer Science (First Class Honours) at Aston University (2015-2019)
+- 👨‍💻 Work Experience: Worked as a Full Stack Developer for 5+ years (.NET Core) in the automotive retail industry
+- 🎓 AiCore: Graduated the AiCore Machine Learning accelerator where I learned the specifics of Machine Learning Engineering
+
+## Tech Stack
+- Languages: Python, C#, SQL, Java, Javascript, HTML, CSS
+- Frameworks: PyTorch, Pandas, NumPy, RayTune, .NET Core, React, Lit Element, Knockout JS
+- Tools: Microsoft Azure, SQL Server, AWS, PostgresSQL
 
 <!--
 **PDDhillon/PDDhillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
