@@ -1,6 +1,6 @@
 # Hi there, i'm Pav 👋
 
-I'm a programmer with a passion for artificial intelligence and its use to fix real world issues. 
+I'm a programmer with a passion for artificial intelligence and its use to fix real world issues. After undertakig the AiCore Accelerator in ML engineering, i'm excited to utilise these newfound skills in meaningful project.  
 Also a huge Wolverhampton Wanderers fan! 🐺
 
 ## About Me
